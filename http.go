@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/projectdiscovery/fastdialer/fastdialer"
+	"github.com/khulnasoft-labs/fastdialer/fastdialer"
 )
 
 // DisableZTLSFallback disables use of ztls when there is error in tls handshake
