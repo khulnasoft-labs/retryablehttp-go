@@ -7,7 +7,7 @@ require (
 	github.com/khulnasoft-labs/fastdialer v0.0.35
 	github.com/khulnasoft-labs/utils v0.0.41
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/net v0.12.0
+	golang.org/x/net v0.17.0
 )
 
 require (
