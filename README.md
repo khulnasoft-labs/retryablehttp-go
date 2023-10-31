@@ -10,7 +10,7 @@ Examples of using Nuclei From Go Code to run templates on targets are provided i
 
 ### url encoding and parsing issues
 
-`retryablehttp.Request` by default handles some [url encoding and parameters issues](https://github.com/khulnasoft-labs/utils/blob/main/url/README.md). since `http.Request` internally uses `url.Parse()` to parse url specified in request it creates some inconsistencies for below urls and other non-RFC compilant urls 
+`retryablehttp.Request` by default handles some [url encoding and parameters issues](https://github.com/khulnasoft-lab/utils/blob/main/url/README.md). since `http.Request` internally uses `url.Parse()` to parse url specified in request it creates some inconsistencies for below urls and other non-RFC compilant urls 
 
 ```
 // below urls are either normalized or returns error when used in `http.NewRequest()`

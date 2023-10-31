@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"sync"
 
-	"github.com/khulnasoft-labs/retryablehttp-go/buggyhttp"
+	"github.com/khulnasoft-lab/retryablehttp-go/buggyhttp"
 )
 
 func WaitForCtrlC() {

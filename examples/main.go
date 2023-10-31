@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http/httputil"
 
-	"github.com/khulnasoft-labs/retryablehttp-go"
+	"github.com/khulnasoft-lab/retryablehttp-go"
 )
 
 var (
