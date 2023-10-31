@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/khulnasoft-labs/retryablehttp-go"
+	"github.com/khulnasoft-lab/retryablehttp-go"
 )
 
 func TestRequestUrls(t *testing.T) {

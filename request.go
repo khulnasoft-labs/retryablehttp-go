@@ -10,8 +10,8 @@ import (
 	"net/url"
 	"os"
 
-	readerutil "github.com/khulnasoft-labs/utils/reader"
-	urlutil "github.com/khulnasoft-labs/utils/url"
+	readerutil "github.com/khulnasoft-lab/utils/reader"
+	urlutil "github.com/khulnasoft-lab/utils/url"
 )
 
 // When True . Request uses `http` as scheme instead of `https`

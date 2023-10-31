@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	readerutil "github.com/khulnasoft-labs/utils/reader"
+	readerutil "github.com/khulnasoft-lab/utils/reader"
 )
 
 type ContextOverride string
