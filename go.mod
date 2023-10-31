@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/Mzack9999/go-http-digest-auth-client v0.6.1-0.20220414142836-eb8883508809
 	github.com/khulnasoft-lab/fastdialer v0.0.37
-	github.com/khulnasoft-lab/utils v0.0.46
+	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/net v0.17.0
 )
@@ -21,7 +21,7 @@ require (
 	github.com/gaukas/godicttls v0.0.4 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
-	github.com/khulnasoft-lab/blackrock v0.0.3 // indirect
+	github.com/khulnasoft-lab/blackrock v0.0.5 // indirect
 	github.com/khulnasoft-lab/hmap v0.0.17 // indirect
 	github.com/khulnasoft-lab/networkpolicy v0.0.8 // indirect
 	github.com/khulnasoft-lab/retryabledns v1.0.32 // indirect
@@ -33,7 +33,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/quic-go/quic-go v0.37.4 // indirect
 	github.com/refraction-networking/utls v1.5.4 // indirect
-	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca // indirect
+	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
 	github.com/tidwall/btree v1.4.3 // indirect
 	github.com/tidwall/buntdb v1.3.0 // indirect
@@ -44,10 +44,10 @@ require (
 	github.com/tidwall/rtred v0.1.2 // indirect
 	github.com/tidwall/tinyqueue v0.1.1 // indirect
 	github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6 // indirect
-	github.com/weppos/publicsuffix-go v0.30.1-0.20230422193905-8fecedd899db // indirect
+	github.com/weppos/publicsuffix-go v0.30.2-0.20230730094716-a20f9abcc222 // indirect
 	github.com/yl2chen/cidranger v1.0.2 // indirect
 	github.com/zmap/rc2 v0.0.0-20190804163417-abaa70531248 // indirect
-	github.com/zmap/zcrypto v0.0.0-20230422215203-9a665e1e9968 // indirect
+	github.com/zmap/zcrypto v0.0.0-20231018155041-c1c1128be414 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/crypto v0.14.0 // indirect
