@@ -4,10 +4,10 @@ go 1.20
 
 require (
 	github.com/Mzack9999/go-http-digest-auth-client v0.6.1-0.20220414142836-eb8883508809
-	github.com/khulnasoft-lab/fastdialer v0.0.37
+	github.com/khulnasoft-lab/fastdialer v0.0.38
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/net v0.17.0
+	golang.org/x/net v0.18.0
 )
 
 require (
@@ -24,7 +24,7 @@ require (
 	github.com/khulnasoft-lab/blackrock v0.0.5 // indirect
 	github.com/khulnasoft-lab/hmap v0.0.17 // indirect
 	github.com/khulnasoft-lab/networkpolicy v0.0.8 // indirect
-	github.com/khulnasoft-lab/retryabledns v1.0.32 // indirect
+	github.com/khulnasoft-lab/retryabledns v1.0.34 // indirect
 	github.com/klauspost/compress v1.16.7 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.25 // indirect
@@ -47,15 +47,15 @@ require (
 	github.com/weppos/publicsuffix-go v0.30.2-0.20230730094716-a20f9abcc222 // indirect
 	github.com/yl2chen/cidranger v1.0.2 // indirect
 	github.com/zmap/rc2 v0.0.0-20190804163417-abaa70531248 // indirect
-	github.com/zmap/zcrypto v0.0.0-20231018155041-c1c1128be414 // indirect
+	github.com/zmap/zcrypto v0.0.0-20231106212110-94c8f62efae4 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/crypto v0.14.0 // indirect
-	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
-	golang.org/x/mod v0.13.0 // indirect
-	golang.org/x/sys v0.13.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
-	golang.org/x/tools v0.14.0 // indirect
+	golang.org/x/crypto v0.15.0 // indirect
+	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa // indirect
+	golang.org/x/mod v0.14.0 // indirect
+	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/tools v0.15.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
