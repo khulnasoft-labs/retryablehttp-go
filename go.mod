@@ -7,7 +7,7 @@ require (
 	github.com/khulnasoft-lab/fastdialer v0.0.38
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/net v0.18.0
+	golang.org/x/net v0.24.0
 )
 
 require (
@@ -50,10 +50,10 @@ require (
 	github.com/zmap/zcrypto v0.0.0-20231106212110-94c8f62efae4 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/crypto v0.15.0 // indirect
+	golang.org/x/crypto v0.22.0 // indirect
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa // indirect
 	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/sys v0.19.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.15.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
